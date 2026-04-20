@@ -23,6 +23,9 @@ namespace InventoryManagementSystem.Forms
            AddProductForm pForm = new AddProductForm();
             pForm.Show();
             this.Hide();
+
+
+
         }
     }
 }
